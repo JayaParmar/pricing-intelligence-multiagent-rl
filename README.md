@@ -72,3 +72,34 @@ main_multiagent_train.py # Training entry point
 pip install -r requirements.txt
 python main_multiagent_train.py
 streamlit run streamlit_app/app.py
+```
+---
+## 📈 Outcomes & Learnings
+
+Demonstrated feasibility of learning-based pricing strategies
+
+Observed emergent competitive behaviors between agents
+
+Gained insights into stability, convergence, and reward shaping in MARL systems
+
+Highlighted challenges in scaling RL for real-world economic systems
+
+---
+## 🔬 Research & Engineering Context
+
+This project was developed as an exploratory research and engineering effort to study:
+
+Decision-making under competition
+
+Learning-based optimization of system-level objectives
+
+Practical challenges in deploying RL for business-critical workflows
+
+It reflects a systems-oriented approach to AI, emphasizing reproducibility, modularity, and extensibility.
+
+---
+
+## 📜 Disclaimer
+
+This repository is intended for research and demonstration purposes.
+It does not include proprietary data or production models.

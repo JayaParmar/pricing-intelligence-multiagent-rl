@@ -43,13 +43,13 @@ This project investigates **reinforcement learning–based pricing agents** that
 
 ## 📦 Repository Structure
 
-agent/ # SAC agents and policy networks
-environment/ # Market and pricing environment
-preprocessing/ # Data preparation and feature pipelines
-models/ # Neural network definitions
-streamlit_app/ # Interactive visualization and demo
-config.py # Experiment configuration
-main_multiagent_train.py# Training entry point
+- agent/ # SAC agents and policy networks
+- environment/ # Market and pricing environment
+- preprocessing/ # Data preparation and feature pipelines
+- models/ # Neural network definitions
+- streamlit_app/ # Interactive visualization and demo
+- config.py # Experiment configuration
+- main_multiagent_train.py# Training entry point
 
 
 ---
